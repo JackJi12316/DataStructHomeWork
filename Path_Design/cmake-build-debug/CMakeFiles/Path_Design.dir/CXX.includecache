@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jack Ji/Desktop/Path_Design/main.cpp
+path_build.h
+C:/Users/Jack Ji/Desktop/Path_Design/path_build.h
+
+C:/Users/Jack Ji/Desktop/Path_Design/path_build.h
+malloc.h
+C:/Users/Jack Ji/Desktop/Path_Design/malloc.h
+stdio.h
+-
+string
+C:/Users/Jack Ji/Desktop/Path_Design/string
+
